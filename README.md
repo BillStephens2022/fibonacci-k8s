@@ -3,8 +3,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-
-  A demo multi-container Fibonacci calculator application built with Docker using client, server, worker, and nginx containers, and deployed with GitHub Actions to AWS (Elastic Beanstalk).  React used for client side and Postgres and Redis used for data storage.  Note that this applcation is no longer deployed to AWS so as not to incur monthly charges.
+  *** This is a Work in Process - not deployed yet ***
+  A demo multi-container Fibonacci calculator application built with Docker using client, server, worker, and nginx containers, and will be deployed with GitHub Actions to Google Cloud.  React used for client side and Postgres and Redis used for data storage.  
 
 ## App Screenshot
 
